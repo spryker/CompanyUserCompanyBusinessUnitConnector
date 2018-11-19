@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/spryker/CompanyUserCompanyBusinessUnitConnector.svg)](https://travis-ci.org/spryker/CompanyUserCompanyBusinessUnitConnector)
 [![Coverage Status](https://coveralls.io/repos/github/spryker/CompanyUserCompanyBusinessUnitConnector/badge.svg)](https://coveralls.io/github/spryker/CompanyUserCompanyBusinessUnitConnector)
 
-{{ADD DESCRIPTION HERE}}
+**This module is not continued at this point.**
 
 ## Installation
 
